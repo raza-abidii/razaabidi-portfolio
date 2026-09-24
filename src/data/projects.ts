@@ -83,7 +83,7 @@ export const projects: Project[] = [
       'Clean information hierarchy',
       'Responsive reporting views',
     ],
-    liveUrl: undefined,
+    liveUrl: 'https://deccan-result.vercel.app/',
     githubUrl: undefined,
   },
   {
